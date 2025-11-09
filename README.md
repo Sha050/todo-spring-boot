@@ -23,6 +23,10 @@ This project demonstrates CRUD operations, RESTful architecture, and database in
 
 ---
 
+### 🗃️ Database Flexibility
+This project was originally built with MySQL, and later extended to use MongoDB.
+The MongoDB version is available locally for testing and learning purposes.
+
 ## ⚙️ Setup & Run
 
 ### 1️⃣ Clone the Repository
