@@ -1,4 +1,4 @@
-# ✅ ToDoDo - Task Management Backend
+# ✅ ToDo - Task Management Backend
 
 A simple **Spring Boot** application that provides REST APIs for managing to-do tasks.  
 This project demonstrates CRUD operations, RESTful architecture, and database integration with **MySQL**.
